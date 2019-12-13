@@ -1,0 +1,58 @@
+<head>
+<meta charset="utf-8" /><title>The Fluxmanifesto</title>
+<body>
+<style>
+        #frame001 {
+            background-color: white;
+            border: 1px solid black;
+            width: 612px;
+            height: 792px;
+margin: 50px
+            padding: 1px;
+        }
+
+        #color001 {
+            color: red;
+            font-size:11px;
+            text-align: left;
+font-family: open sans light
+
+        }
+
+        #center001 {
+            text-align: center;
+        }
+
+        .button001 {
+            background-color: black;
+            color: white;
+            padding: 5px;
+            cursor: pointer;
+        }
+
+        .button002 {
+            width: 10px;
+            height: 10px;
+        }
+    </style>
+    <div id="frame001">
+        <div id="color001">
+            <div id="center001">
+                <h1><strong>The Fluxmanifesto</strong> 
+<h1/>
+<body>
+for creatives in flux</p> 
+<p>I am <input value = "an artist" size="16"/><text class="button002"></text>, living in a constantly-changing world. I hereby address my position, voice, and role in this <input value ="souless" size="16" /> society in order to move forward with a sense of <input value ="clarity and direction" size="16" />.<p/>
+
+<br/>
+<p> In the past, I created <input id="input005" size="15" /><text class="button002" id="check005"></text>.</p>
+            <div id="disappear001"><div id="center001"><button class="button001" onclick="submit001()">Submit</button></div></div><br />
+            <div id="center001"><p id="message001"></p><p id="reload001"></p></div>
+                <br />
+            <br />
+            </div>
+    </div>
+
+    </script>
+</body>
+</html>
